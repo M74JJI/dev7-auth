@@ -25,6 +25,7 @@ export default function Home() {
   );
 }
 
+/*
 export async function getServerSideProps(ctx: NextPageContext) {
   const session = await getSession(ctx);
   return {
@@ -33,3 +34,5 @@ export async function getServerSideProps(ctx: NextPageContext) {
     },
   };
 }
+
+*/
