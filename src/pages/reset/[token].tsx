@@ -12,7 +12,7 @@ export default function Reset({ token }: { token: string }) {
           <ResetForm token={token} />
         </div>
 
-        {/*--Background--*/}
+        {/*--Background here--*/}
         <Background image={`"../../auth/reset.jpg"`} />
       </div>
     </div>
