@@ -11,7 +11,7 @@ export default function App({
   return (
     <>
       <Head>
-        <title>Authentification - Mohamed HAJJI</title>
+        <title>Authentification - MOHAMED HAJJI</title>
       </Head>
       <SessionProvider session={session}>
         <ToastContainer
